@@ -1,0 +1,2 @@
+# PyDantic
+Pydantic essential concepts 
